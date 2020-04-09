@@ -1,2 +1,2 @@
-# HERP.FrontendInterface
-Interface for the HomeERP Frontend
+# HERP.FrontendProvider
+Plugin which provides resources for the frontend
